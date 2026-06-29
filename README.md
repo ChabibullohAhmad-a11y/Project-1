@@ -59,12 +59,12 @@ src/
 
 ## 🎨 Design System
 
-| Role | Hex |
-|------|-----|
-| Background | `#fceed1` |
+| Role             | Hex       |
+| ---------------- | --------- |
+| Background       | `#fceed1` |
 | Primary (Purple) | `#7d3cff` |
 | Warning (Yellow) | `#f2d53c` |
-| Alert (Red) | `#c80e13` |
+| Alert (Red)      | `#c80e13` |
 
 ## 📄 Documentation
 
@@ -72,4 +72,8 @@ See [`PRD.md`](./PRD.md) for the full Product Requirement Document including use
 
 ---
 
-*Built as a front-end engineering portfolio project demonstrating React architecture, JavaScript array manipulation, and data visualization.*
+_Built as a front-end engineering portfolio project demonstrating React architecture, JavaScript array manipulation, and data visualization._
+
+# FinTrack — Personal Finance & Expense Tracker Dashboard
+
+🚀 🚀 **Live Demo:** [Kunjungi FinTrack](https://project-1-ebon-six.vercel.app)
