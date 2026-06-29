@@ -77,3 +77,5 @@ _Built as a front-end engineering portfolio project demonstrating React architec
 # FinTrack — Personal Finance & Expense Tracker Dashboard
 
 🚀 🚀 **Live Demo:** [Kunjungi FinTrack](https://project-1-ebon-six.vercel.app)
+
+![FinTrack Dashboard Preview](./src/assets/Dasboard-preview.png)
